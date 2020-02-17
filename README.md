@@ -1,0 +1,2 @@
+# bridge
+Bridge Design Pattern
